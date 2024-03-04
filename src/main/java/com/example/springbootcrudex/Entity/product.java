@@ -22,7 +22,7 @@ public class product {
     private int quantity;
     private double price;
 
-
-
 }
+
+//comment in product
 
